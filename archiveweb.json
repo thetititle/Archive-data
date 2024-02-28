@@ -154,6 +154,7 @@
       "year": "2021",
       "desc": " Academy project1",
       "href": "http://thetititle.com/products/manyo/index.html/",
+      "responsive": "PC",
       "issueCheck": []
     },
     {
@@ -165,6 +166,7 @@
       "year": "2021",
       "desc": "Academy project2",
       "href": "http://thetititle.com/products/knotted/index.html",
+      "responsive": "MOBILE",
       "issueCheck": []
     },
     {
@@ -176,6 +178,7 @@
       "year": "2023",
       "desc": "Archive website",
       "href": "http://thetititle.com/products/archiveweb1/index.html",
+      "responsive": "RESPONSIVE",
       "issueCheck": [
         {
           "id": "0",
@@ -228,6 +231,7 @@
       "year": "2024",
       "desc": "Toy project",
       "href": "https://thetititle.github.io/movieflex/",
+      "responsive": "PC",
       "issueCheck": []
     },
     {
@@ -239,6 +243,7 @@
       "year": "2024",
       "desc": "Archive website",
       "href": "#",
+      "responsive": "RESPONSIVE",
       "issueCheck": [
         {
           "id": "0",
@@ -271,6 +276,7 @@
       "year": "2024",
       "desc": "Shopping Mall renewal",
       "href": "#",
+      "responsive": "RESPONSIVE",
       "issueCheck": []
     }
   ]
