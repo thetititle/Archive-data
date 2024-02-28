@@ -150,7 +150,7 @@
       "type": "personal",
       "title": "🔮Manyo Factory site",
       "skills": ["HTML", "JavaScript", "css"],
-      "imgUrl": "http://thetititle.com/img/21_manyo.jpg",
+      "imgUrl": "https://github.com/thetititle/data/blob/main/img/manyo.jpg",
       "year": "2021",
       "desc": " Academy project1",
       "href": "http://thetititle.com/products/manyo/index.html/",
@@ -161,7 +161,7 @@
       "type": "personal",
       "title": "🍩Knotted Mobile site",
       "skills": ["HTML", "jQuery", "css"],
-      "imgUrl": "http://thetititle.com/img/21_knotted.jpg",
+      "imgUrl": "https://github.com/thetititle/data/blob/main/img/knotted.jpg",
       "year": "2021",
       "desc": "Academy project2",
       "href": "http://thetititle.com/products/knotted/index.html",
@@ -170,9 +170,9 @@
     {
       "id": "2",
       "type": "personal",
-      "title": "💚this page Quasar",
+      "title": "💚Archive web site1",
       "skills": ["Quasar", "JavaScript", "scss"],
-      "imgUrl": "http://thetititle.com/img/23_design.jpg",
+      "imgUrl": "https://github.com/thetititle/data/blob/main/img/archive1.jpg",
       "year": "2023",
       "desc": "Archive website",
       "href": "http://thetititle.com/products/quasar/index.html",
@@ -233,9 +233,41 @@
     {
       "id": "4",
       "type": "personal",
+      "title": "💙Archive web site2",
+      "skills": ["React", "JavaScript", "scss"],
+      "imgUrl": "https://github.com/thetititle/data/blob/main/img/archive2.jpg",
+      "year": "2024",
+      "desc": "Archive website",
+      "href": "#",
+      "issueCheck": [
+        {
+          "id": "0",
+          "complate": "REV",
+          "desc": "Header Nav Active Event"
+        },
+        {
+          "id": "1",
+          "complate": "REV",
+          "desc": "PageIndex Scroll Event"
+        },
+        {
+          "id": "2",
+          "complate": "REV",
+          "desc": "Product Confirm Event"
+        },
+        {
+          "id": "3",
+          "complate": "REV",
+          "desc": "Responsive"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "personal",
       "title": "✨BiBiANG site",
       "skills": ["Next.js", "TypeScript", "scss"],
-      "imgUrl": "http://thetititle.com/img/bibiang.jpg",
+      "imgUrl": "https://github.com/thetititle/data/blob/main/img/bibiang.jpg",
       "year": "2024",
       "desc": "Shopping Mall renewal",
       "href": "#",
