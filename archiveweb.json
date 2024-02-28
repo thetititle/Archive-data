@@ -175,7 +175,7 @@
       "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/archive1.jpg",
       "year": "2023",
       "desc": "Archive website",
-      "href": "http://thetititle.com/products/quasar/index.html",
+      "href": "http://thetititle.com/products/archiveweb1/index.html",
       "issueCheck": [
         {
           "id": "0",
@@ -242,22 +242,22 @@
       "issueCheck": [
         {
           "id": "0",
-          "complate": "REV",
-          "desc": "Header Nav Active Event"
+          "complate": "PRE",
+          "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
         },
         {
           "id": "1",
-          "complate": "REV",
-          "desc": "PageIndex Scroll Event"
+          "complate": "PRE",
+          "desc": "페이지 스크롤시 Header current Nav acive  Event"
         },
         {
           "id": "2",
-          "complate": "REV",
-          "desc": "Product Confirm Event"
+          "complate": "PRE",
+          "desc": "Product href에 따라 Confirm 출력"
         },
         {
           "id": "3",
-          "complate": "REV",
+          "complate": "PRE",
           "desc": "Responsive"
         }
       ]
