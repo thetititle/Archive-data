@@ -15,51 +15,51 @@
         "skills": [
           {
             "name": "VScode",
-            "imgUrl": "http://thetititle.com/img/skills/vscode.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/vscode.png"
           },
           {
             "name": "html5",
-            "imgUrl": "http://thetititle.com/img/skills/html5.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/html5.png"
           },
           {
             "name": "css3",
-            "imgUrl": "http://thetititle.com/img/skills/css3.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/css3.png"
           },
           {
             "name": "scss",
-            "imgUrl": "http://thetititle.com/img/skills/sass.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/sass.png"
           },
           {
             "name": "javascript",
-            "imgUrl": "http://thetititle.com/img/skills/javascript.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/javascript.png"
           },
           {
             "name": "react",
-            "imgUrl": "http://thetititle.com/img/skills/react.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/react.png"
           },
           {
             "name": "vue3",
-            "imgUrl": "http://thetititle.com/img/skills/vue.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/vue.png"
           },
           {
             "name": "quasar",
-            "imgUrl": "http://thetititle.com/img/skills/quasar.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/quasar.png"
           },
           {
             "name": "figma",
-            "imgUrl": "http://thetititle.com/img/skills/figma.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/figma.png"
           },
           {
             "name": "photoshop",
-            "imgUrl": "http://thetititle.com/img/skills/photoshop.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/photoshop.png"
           },
           {
             "name": "github",
-            "imgUrl": "http://thetititle.com/img/skills/github.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/github.png"
           },
           {
             "name": "gitlab",
-            "imgUrl": "http://thetititle.com/img/skills/gitlab.png"
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/gitlab.png"
           }
         ]
       },
