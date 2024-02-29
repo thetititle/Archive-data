@@ -242,12 +242,12 @@
       "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/archive2.jpg",
       "year": "2024",
       "desc": "Archive website",
-      "href": "#",
+      "href": "http://thetititle.com/",
       "responsive": "RESPONSIVE",
       "issueCheck": [
         {
           "id": "0",
-          "complate": "PRE",
+          "complate": "NOW",
           "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
         },
         {
@@ -258,12 +258,12 @@
         {
           "id": "2",
           "complate": "PRE",
-          "desc": "Product href에 따라 Confirm 출력"
+          "desc": "Responsive"
         },
         {
           "id": "3",
-          "complate": "PRE",
-          "desc": "Responsive"
+          "complate": "CLEAR",
+          "desc": "Product href에 따라 Confirm 출력"
         }
       ]
     },
