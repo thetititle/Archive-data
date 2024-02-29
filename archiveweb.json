@@ -257,17 +257,17 @@
         },
         {
           "id": "2",
-          "complate": "CLEAR",
+          "complate": "240229",
           "desc": "페이지 스크롤시 Header current Nav active  Event"
         },
         {
           "id": "3",
-          "complate": "CLEAR",
+          "complate": "240229",
           "desc": "Product href에 따라 Confirm 출력"
         },
         {
           "id": "4",
-          "complate": "CLEAR",
+          "complate": "240228",
           "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
         }
       ]
