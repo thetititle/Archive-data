@@ -248,22 +248,22 @@
         {
           "id": "0",
           "complate": "NOW",
-          "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
+          "desc": "페이지 스크롤시 Header current Nav active  Event"
         },
         {
           "id": "1",
           "complate": "PRE",
-          "desc": "페이지 스크롤시 Header current Nav active  Event"
+          "desc": "Responsive"
         },
         {
           "id": "2",
-          "complate": "PRE",
-          "desc": "Responsive"
+          "complate": "CLEAR",
+          "desc": "Product href에 따라 Confirm 출력"
         },
         {
           "id": "3",
           "complate": "CLEAR",
-          "desc": "Product href에 따라 Confirm 출력"
+          "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
         }
       ]
     },
