@@ -246,14 +246,14 @@
       "responsive": "RESPONSIVE",
       "issueCheck": [
         {
-          "id": "10",
+          "id": "0",
           "complate": "NOW",
-          "desc": "Routing 이후 페이지 새로고침 화면 404 issue"
+          "desc": "Responsive"
         },
         {
           "id": "1",
-          "complate": "PRE",
-          "desc": "Responsive"
+          "complate": "240302",
+          "desc": "Routing 이후 페이지 새로고침 화면 404 issue"
         },
         {
           "id": "2",
