@@ -172,7 +172,7 @@
     {
       "id": "2",
       "type": "company",
-      "title": "통일부 통합지원시스템",
+      "title": "🇰🇷통일부 통합지원시스템",
       "skills": ["HTML", "JavaScript", "css"],
       "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/unikorea.jpg",
       "year": "2023",
@@ -184,7 +184,7 @@
     {
       "id": "3",
       "type": "company",
-      "title": "공무원 연금공단 수급권 확인서비스",
+      "title": "💰공무원 연금공단 수급권 확인서비스",
       "skills": ["HTML", "JavaScript", "css"],
       "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/geps.jpg",
       "year": "2023",
