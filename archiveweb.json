@@ -243,6 +243,11 @@
           "id": "7",
           "complate": "FINISH",
           "desc": "emitted event declared issue check"
+        },
+        {
+          "id": "8",
+          "complate": "FINISH",
+          "desc": "반응형 구현 3차(수정)"
         }
       ]
     },
@@ -293,6 +298,11 @@
           "id": "4",
           "complate": "240228",
           "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
+        },
+        {
+          "id": "5",
+          "complate": "240318",
+          "desc": "Responsive 2차(수정)"
         }
       ]
     },
