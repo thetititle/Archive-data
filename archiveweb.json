@@ -276,13 +276,13 @@
       "issueCheck": [
         {
           "id": "0",
-          "complate": "240304",
-          "desc": "Responsive"
+          "complate": "240228",
+          "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
         },
         {
           "id": "1",
-          "complate": "240302",
-          "desc": "Routing 이후 페이지 새로고침 화면 404 issue"
+          "complate": "240229",
+          "desc": "Product href에 따라 Confirm 출력"
         },
         {
           "id": "2",
@@ -291,13 +291,13 @@
         },
         {
           "id": "3",
-          "complate": "240229",
-          "desc": "Product href에 따라 Confirm 출력"
+          "complate": "240302",
+          "desc": "Routing 이후 페이지 새로고침 화면 404 issue"
         },
         {
           "id": "4",
-          "complate": "240228",
-          "desc": "Heade의 Nav 클릭시 해당 섹션으로 Scroll Move Event"
+          "complate": "240304",
+          "desc": "Responsive"
         },
         {
           "id": "5",
