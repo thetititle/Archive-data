@@ -177,7 +177,7 @@
       "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/unikorea.jpg",
       "year": "2023",
       "desc": "통합지원시스템 publishing",
-      "href": "#",
+      "href": "http://thetititle.com/products/Unikora/index.html",
       "responsive": "PC",
       "issueCheck": []
     },
@@ -307,6 +307,7 @@
       ]
     },
     {
+      "_comment": "추가할 포트폴리오",
       "id": "7",
       "type": "personal",
       "title": "✨BiBiANG site",
