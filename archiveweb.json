@@ -258,7 +258,7 @@
       "skills": ["React", "JavaScript", "css"],
       "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/movieflex.jpg",
       "year": "2024",
-      "desc": "Toy project",
+      "desc": "Practice react",
       "href": "https://thetititle.github.io/movieflex/",
       "responsive": "PC",
       "issueCheck": []
