@@ -309,11 +309,11 @@
     {
       "id": "7",
       "type": "personal",
-      "title": "✨BiBiANG site",
-      "skills": ["Next.js", "TypeScript", "scss"],
-      "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/bibiang.jpg",
+      "title": "🚀X(Twitter)",
+      "skills": ["React", "JavaScript", "css"],
+      "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/twitter.jpg",
       "year": "2024",
-      "desc": "Shopping Mall renewal",
+      "desc": "X clone coding",
       "href": "#",
       "responsive": "RESPONSIVE",
       "issueCheck": []
