@@ -60,6 +60,10 @@
           {
             "name": "gitlab",
             "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/gitlab.png"
+          },
+          {
+            "name": "firebase",
+            "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/skills/firebase.png"
           }
         ]
       },
@@ -320,7 +324,7 @@
       "id": "7",
       "type": "personal",
       "title": "🚀X(Twitter)",
-      "skills": ["React", "TypeScript", "css"],
+      "skills": ["React", "TypeScript", "css", "Firebase"],
       "imgUrl": "https://raw.githubusercontent.com/thetititle/Archive-data/main/img/twitter.jpg",
       "year": "2024",
       "desc": "X clone coding",
